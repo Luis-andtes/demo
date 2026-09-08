@@ -1,6 +1,6 @@
-# DEMO DE POSIBLE WEB DE SCOPE
+# SCOPE
 
-Sitio institucional del Semillero de Investigación de Economía y Finanzas para las Organizaciones.
+Demo del Semillero de Investigación de Economía y Finanzas para las Organizaciones.
 
 La versión estática lista para publicar se encuentra en `dist/`.
 
