@@ -1,6 +1,6 @@
-# SCOPE EAFIT
+# DEMO DE POSIBLE WEB DE SCOPE
 
-Sitio institucional del Semillero de Investigación de Economía y Finanzas para las Organizaciones de la Universidad EAFIT.
+Sitio institucional del Semillero de Investigación de Economía y Finanzas para las Organizaciones.
 
 La versión estática lista para publicar se encuentra en `dist/`.
 
